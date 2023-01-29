@@ -1,0 +1,4 @@
+pycocotools
+pyshp
+scikit-image
+scipy
